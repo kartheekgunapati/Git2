@@ -4,6 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+//import org.openqa.selenium.support.PageFactory;
 
 
 public class yahoocode {
@@ -25,6 +26,11 @@ public class yahoocode {
 		Thread.sleep(3000);
 		driver.quit();
 		
+		
+		//PageFactory code
+		//Pagefactorylibrary pfl = PageFactory.initElements(driver, Pagefactorylibrary.class);
+		//pfl.detailsFill();
+		//driver.quit();
 		
 	}
 
