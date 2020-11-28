@@ -1,0 +1,17 @@
+ChormeDriver = C:\\Users\\msuser1\\Documents\\Workspace\\Celin\\Cha\\Chrome\\chromedriver.exe
+
+FirefoxDriver = C:\\Users\\msuser1\\Documents\\Workspace\\Celin\Cha\\firefox driver\\geckodriver.exe 
+
+FBUrl = https://www.facebook.com
+
+YahooUrl = https://www.yahoo.com
+
+RedbusUrl = https://www.redbus.in
+
+AbhibusUrl = https://www.abhibus.com
+
+GoogleUrl = https://www.google.com
+
+AmazonUrl = https://www.amazon.in
+
+FlipkartUrl = https://www.flipkart.com
